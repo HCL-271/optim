@@ -46,7 +46,7 @@ $$
 X = Q \cdot R,
 $$
 
-where  $$Q$$ is an orthogonal matrix (its columns are orthogonal unit vectors meaning  $$Q^\top Q=QQ^\top=I$$ and $$R$$ is an upper triangular matrix. It is important to notice, that since $$Q^{-1} = Q^\top$$, we have:
+where  $$Q$$ is an orthogonal matrix (its columns are orthogonal unit vectors meaning  $$Q^\top Q=QQ^\top=I$$) and $$R$$ is an upper triangular matrix. It is important to notice, that since $$Q^{-1} = Q^\top$$, we have:
 
 $$
 QR\theta = y \quad \longrightarrow \quad R \theta = Q^\top y
